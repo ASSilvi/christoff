@@ -2,7 +2,7 @@
 templateKey: about-page
 title: About us
 ---
-All-Stars Silviculture is a small company with a big portfolio. Our clientele includes Canoe Forest Products, Ministry of Forests, BCTS, Interfor, Tolko, Louisiana-Pacific, Downie Timber, Lakeside Timber, FFT, West Fraser Timber, Community Forests, and private Woodlots.
+All-Stars Silviculture is a small company with a big portfolio. Our clientele includes Canoe Forest Products, Ministry of Forests, BCTS, Interfor, Tolko, Louisiana-Pacific, Downie Timber, Lakeside Timber, FFT, West Fraser Timber, Community Forests, and private Woodlots..
 
 Our tree planting season starts mid-April and continues until late-July. Brushing starts in June and finish late-October. Slash burning extends into December. In total we offer the option of 6-8 months of
 continuous work.
