@@ -2,7 +2,7 @@
 templateKey: contact-page
 title: Contact
 ---
-Owners: Chris Solic and Lysa Gauthier
+Owners: Chris Solic and Lysa Gauthierr
 
 Email: <mailto:allstarssilviculture@gmail.com>
 
