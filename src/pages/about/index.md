@@ -2,9 +2,9 @@
 templateKey: about-page
 title: About us
 ---
-All-Stars Silviculture is a small company with a big portfolio. Our clientele includes Canoe Forest Products, Ministry of Forests, BCTS, Interfor, Tolko, Louisiana-Pacific, Downie Timber, Lakeside Timber, FFT, West Fraser Timber, Community Forests, and private Woodlots. We are based in Enderby, BC, and have been in operation since 2005.
+All-Stars Silviculture Ltd is a small company with a big portfolio. Our clientele includes Canoe Forest Products, Ministry of Forests, BCTS, Interfor, Tolko, Louisiana-Pacific, Downie Timber, Lakeside Timber, FFT, West Fraser Timber, Community Forests, and private Woodlots. We are based in Enderby, BC, and have been in operation since 2005.
 
-Our tree planting season starts mid-April and continues until late-July. Brushing starts in June and finish late-October. Slash burning extends into December. In total we offer the option of 6-8 months of
+Our field season starts mid-April and continues until late-October. Planting generally finishes late-July, whereas brushing continues till snowfall. Slash burning extends into December. In total we offer the option of 6-8 months of
 continuous work.
 
 ![a treeplanter](/img/chrisplanter.jpg)
@@ -18,4 +18,4 @@ beaches and swimming of Shuswap Lake are often just a short walk away. Delicious
 and a fun, comfortable atmosphere enable our employees to maximize their earnings. Motels, when
 used, are provided at no cost.
 
-Prices and terrain vary with each contract but our minimum base price is 16c/tree and our average is approximately 23c/tree.
+Prices and terrain vary with each contract but average around 23c/tree for planting and $500/ha for brushing.
